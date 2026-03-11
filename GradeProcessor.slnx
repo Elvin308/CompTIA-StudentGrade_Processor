@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GradeProcessor.Application/GradeProcessor.Application.csproj" />
+  <Project Path="GradeProcessor.Domain/GradeProcessor.Domain.csproj" />
+  <Project Path="GradeProcessor.Infrastructure/GradeProcessor.Infrastructure.csproj" />
+  <Project Path="GradeProcessor.Services/GradeProcessor.Services.csproj" />
+  <Project Path="GradeProcessor/GradeProcessor.csproj" />
+</Solution>

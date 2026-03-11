@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GradeProcessor.Domain\GradeProcessor.Domain.csproj" />
+    <ProjectReference Include="..\GradeProcessor.Infrastructure\GradeProcessor.Infrastructure.csproj" />
+    <ProjectReference Include="..\GradeProcessor.Services\GradeProcessor.Services.csproj" />
+  </ItemGroup>
+
+</Project>
